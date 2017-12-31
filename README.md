@@ -1,4 +1,4 @@
-# Developer Tips
+# Programmer Tips
 A collection of plugins, keyboard shortcuts, and usage tips focused on improving your experience while using visual studio and other "generic" programmer tools.
 
 ## Getting Started
